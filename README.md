@@ -1,1 +1,1 @@
-# appearances-ds-practice-using-pandas
+# apple-quality-ds-practice-using-pandas
